@@ -3,7 +3,7 @@ import { MdOutlineAlternateEmail } from "react-icons/md";
 import { RiLockPasswordLine } from "react-icons/ri";
 import { Gi3DStairs } from "react-icons/gi";
 import Image from "next/image";
-import { FaInstagram, FaLinkedin, FaGithub } from 'react-icons/fa';
+import { FaInstagram, FaLinkedin, FaGithub } from "react-icons/fa";
 import Link from "next/link";
 import { useState } from "react";
 import { useRouter } from "next/navigation";

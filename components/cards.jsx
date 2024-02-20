@@ -1,5 +1,5 @@
 "use client"
-import { useState } from 'react';
+import { useState } from "react";
 import UserInfo from "@/components/UserInfo";
 const Cards = () => {
 
@@ -10,8 +10,8 @@ const Cards = () => {
     };
 
     return (
-        <div className='flex  w-screen h-screen'>
-            <div className='flex flex-col items-center  justify-center h-auto mt-4 w-screen'>
+        <div className="flex  w-screen h-screen">
+            <div className="flex flex-col items-center  justify-center h-auto mt-4 w-screen">
                 <h1 className=" font-news text-6xl mb-12 ">Careers</h1>
 
                 {/*first 4 cards*/}
